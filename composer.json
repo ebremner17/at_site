@@ -1,0 +1,7 @@
+{
+  "name": "ebremner17/at_site",
+  "description": "Site specific for ArrowTrade Magazine.",
+  "type": "drupal-custom-module",
+  "homepage": "https://github.com/ebremner17/at_site",
+  "keywords": ["Drupal"]
+}
