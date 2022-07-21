@@ -1,0 +1,4 @@
+name: 'ArrowTrade site'
+description: 'Site specific for ArrowTrade Magazine.'
+type: module
+core_version_requirement: ^9
